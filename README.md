@@ -19,7 +19,7 @@ python mock_apis/server.py
 ### Run Functional Tests
 pytest tests/test_functional.py
 
-### Run Functional Tests
+### Run Integration Tests
 pytest tests/test_integration.py
 
 ### Run UI Tests
